@@ -46,10 +46,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifsiddique&show_icons=true&theme=github_dark&hide_border=true"/>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  </a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifsiddique&layout=compact&theme=github_dark&hide_border=true"/>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifsiddique&theme=github-dark-blue&hide_border=true"/>
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </a>
 
 </div>
