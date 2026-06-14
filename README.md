@@ -43,7 +43,26 @@
 </div>
 
 ## :fire: My Stats
-![kaifmks440's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=radical&hide_border=true)
+## 📊 GitHub Statistics
 
-![kaifmks440's Stats](https://github-readme-stats.vercel.app/api?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![kaifmks440's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+
+  <a href="https://github.com/kaifmks440">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/kaifmks440">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/kaifmks440?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  </a>
+
+</div>
