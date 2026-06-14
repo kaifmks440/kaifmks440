@@ -42,24 +42,15 @@
   </div>
 </div>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+## :fire: My Stats
+<div id="stats" align="center">
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=radical" alt="GitHub Streak" />
   </a>
-
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical" alt=""/>
   </a>
-
-</div>
-
-<div align="center">
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Langs"/>
   </a>
-
 </div>
