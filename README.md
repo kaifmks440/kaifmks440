@@ -43,6 +43,7 @@
 </div>
 
 ## :fire: My Stats
-![kaifmks440's Stats](https://github-readme-stats.vercel.app/api?username=kaifmks440&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![kaifmks440's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=vue-dark&hide_border=true)
-![kaifmks440's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmks440&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![kaifmks440's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=radical&hide_border=true)
+
+![kaifmks440's Stats](https://github-readme-stats.vercel.app/api?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![kaifmks440's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifmks440&theme=radical&show_icons=true&hide_border=true&layout=compact)
