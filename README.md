@@ -77,7 +77,9 @@ Currently working as a **Senior Analyst at NatWest**, specializing in building s
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/kaifmks440">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaifmks440&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
